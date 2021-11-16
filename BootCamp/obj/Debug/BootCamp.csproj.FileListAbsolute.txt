@@ -1,0 +1,11 @@
+D:\Codingan\BootCamp\BootCamp\obj\Debug\BootCamp.Form1.resources
+D:\Codingan\BootCamp\BootCamp\obj\Debug\BootCamp.Properties.Resources.resources
+D:\Codingan\BootCamp\BootCamp\obj\Debug\BootCamp.csproj.GenerateResource.cache
+D:\Codingan\BootCamp\BootCamp\obj\Debug\BootCamp.csproj.CoreCompileInputs.cache
+D:\Codingan\bootcamp\BootCamp\bin\Debug\bootcamp.accdb
+D:\Codingan\bootcamp\BootCamp\bin\Debug\BootCamp.exe.config
+D:\Codingan\bootcamp\BootCamp\bin\Debug\BootCamp.exe
+D:\Codingan\bootcamp\BootCamp\bin\Debug\BootCamp.pdb
+D:\Codingan\bootcamp\BootCamp\obj\Debug\BootCamp.exe
+D:\Codingan\bootcamp\BootCamp\obj\Debug\BootCamp.pdb
+D:\Codingan\bootcamp\BootCamp\obj\Debug\BootCamp.csprojAssemblyReference.cache
